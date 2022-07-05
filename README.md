@@ -1,0 +1,2 @@
+# shecodes
+JavaScript, HTML, CSS, WEB DESIGN AND APP DEVELOPMENT
